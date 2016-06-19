@@ -1,4 +1,7 @@
 ---
 - name: create motd
-  template: src=etc_motd.j2 dest=/etc/motd mode=0755
+  template:
+    src: etc_motd.j2
+    dest: /etc/motd
+    mode: 0755
 
