@@ -1,5 +1,5 @@
 ---
-motd_infrastructure_manager: ""
+motd_infrastructure_manager: "ISG SOSETH <isg@sos.ethz.ch>"
 
 motd_distribution_name: "{{ ansible_distribution }}"
 motd_distribution_version: "{{ ansible_distribution_version }}"
