@@ -1,5 +1,6 @@
 ---
 - name: create motd
+  become: True
   template:
     src: etc_motd.j2
     dest: /etc/motd
