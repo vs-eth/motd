@@ -7,3 +7,5 @@ motd_greeting_text: |
   Usage of this system is governed by SOSETH and ETH regulations.
    Benutzungsordnung fuer Telematik an der ETH Zurich (BOT)
      https://www1.ethz.ch/id/documentation/rechtliches
+
+motd_static: True
