@@ -1,11 +1,11 @@
 ---
-motd_infrastructure_manager: "ISG SOSETH <isg@sos.ethz.ch>"
+motd_infrastructure_manager: "IT Department"
 
 motd_distribution_name: "{{ ansible_distribution }}"
 motd_distribution_version: "{{ ansible_distribution_version }}"
 motd_greeting_text: |
-  Usage of this system is governed by SOSETH and ETH regulations.
-   Benutzungsordnung fuer Telematik an der ETH Zurich (BOT)
-     https://www1.ethz.ch/id/documentation/rechtliches
+  UNAUTHORIZED ACCESS TO THIS DEVICE IS PROHIBITED
+
+  You must have explicit, authorized permission to access or configure this device. Unauthorized attempts and actions to access or use this system may result in civil and/or criminal penalties. All activities performed on this device are logged and monitored.
 
 motd_static: True
