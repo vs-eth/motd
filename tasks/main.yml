@@ -5,4 +5,4 @@
       src: etc_motd.j2
       dest: /etc/motd
       mode: 0755
-    when: motd_static
+    when: motd_static | bool
