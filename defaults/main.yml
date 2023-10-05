@@ -10,4 +10,4 @@ motd_greeting_text: |
   Unauthorized attempts and actions to access or use this system may result in civil and/or criminal penalties.
   All activities performed on this device are logged and monitored.
 
-motd_static: True
+motd_static: true
